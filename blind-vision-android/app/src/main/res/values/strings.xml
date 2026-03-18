@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blind Vision Assistant</string>
+    <string name="start_navigate">开始导航</string>
+    <string name="stop_navigate">停止导航</string>
+    <string name="voice_query">语音提问</string>
+    <string name="listening">正在听...</string>
+    <string name="status_idle">状态: 待机</string>
+    <string name="status_navigating">状态: 导航中</string>
+    <string name="status_safety">状态: 安全模式</string>
+    <string name="risk_low">风险: LOW</string>
+    <string name="risk_medium">风险: MEDIUM</string>
+    <string name="risk_high">风险: HIGH</string>
+</resources>
